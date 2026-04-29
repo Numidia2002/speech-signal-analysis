@@ -1,2 +1,27 @@
-# speech-signal-analysis
-Laboratory report on speech signal analysis with Praat. Coursework from my Master's in NLP
+# Speech Signal Analysis
+
+Laboratory report from the Speech Signal Analysis course of my Master's in Language Analysis and Processing. The work covers a guided exploration of the acoustic properties of speech signals using [Praat](https://www.fon.hum.uva.nl/praat/).
+
+## Authors
+
+- Noumidia Abadour ([@Numidia2002](https://github.com/Numidia2002))
+- Darragh Kerins ([@VerbalAid](https://github.com/VerbalAid))
+
+This is a joint coursework project. Both authors contributed to the analyses, measurements, and writing of the report.
+
+## Contents
+
+The report is organized in four sections:
+
+1. **Bandwidth of the speech signal** — sampling frequency, low-pass filtering at different cutoffs, and the relationship between bandwidth and intelligibility.
+2. **Waveform, spectrogram and spectrum of voiced and unvoiced sounds** — comparison of voiced vs. unvoiced segments in time and frequency, with examples of harmonic structure, formants, and pitch tracking.
+3. **Formants** — measurement of F1 and F2 (with bandwidths) for the five Spanish vowels /a e i o u/, plotted in the F1–F2 vowel space and compared against reference values from Quilis (1981).
+4. **Reading spectrograms** — interpretation of an unknown spectrogram (sampling frequency, narrow- vs. wideband, voicing, formants, noise level, etc.).
+
+## Tools
+
+- [Praat](https://www.fon.hum.uva.nl/praat/) — phonetic analysis software used for all visualizations and measurements (waveforms, spectrograms, spectral slices, formant tracking, pitch tracking, filtering).
+
+## File
+
+[`Speech_Signal_Analysis_Report.pdf`](./Speech_Signal_Analysis_Report.pdf) — full lab report with figures, tables, and answers to all guided questions.
