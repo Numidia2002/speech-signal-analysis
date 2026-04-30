@@ -1,6 +1,6 @@
 # Speech Signal Analysis
 
-Laboratory report from the Speech Signal Analysis course of my Master's in NLP. The work covers a guided exploration of the acoustic properties of speech signals using [Praat].
+Laboratory report from the Speech Signal Analysis course of my Master's in NLP. The work covers a guided exploration of the acoustic properties of speech signals using Praat.
 
 ## Authors
 
