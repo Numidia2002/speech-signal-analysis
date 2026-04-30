@@ -13,15 +13,15 @@ This is a joint coursework project. Both authors contributed to the analyses, me
 
 The report is organized in four sections:
 
-1. **Bandwidth of the speech signal** — sampling frequency, low-pass filtering at different cutoffs, and the relationship between bandwidth and intelligibility.
-2. **Waveform, spectrogram and spectrum of voiced and unvoiced sounds** — comparison of voiced vs. unvoiced segments in time and frequency, with examples of harmonic structure, formants, and pitch tracking.
-3. **Formants** — measurement of F1 and F2 (with bandwidths) for the five Spanish vowels /a e i o u/, plotted in the F1–F2 vowel space and compared against reference values from Quilis (1981).
-4. **Reading spectrograms** — interpretation of an unknown spectrogram (sampling frequency, narrow- vs. wideband, voicing, formants, noise level, etc.).
+1. **Bandwidth of the speech signal**: sampling frequency, low-pass filtering at different cutoffs, and the relationship between bandwidth and intelligibility.
+2. **Waveform, spectrogram and spectrum of voiced and unvoiced sounds**: comparison of voiced vs. unvoiced segments in time and frequency, with examples of harmonic structure, formants, and pitch tracking.
+3. **Formants**: measurement of F1 and F2 for the five Spanish vowels /a e i o u/, plotted in the F1–F2 vowel space and compared against reference values from Quilis (1981).
+4. **Reading spectrograms**: interpretation of an unknown spectrogram.
 
 ## Tools
 
-- [Praat](https://www.fon.hum.uva.nl/praat/) — phonetic analysis software used for all visualizations and measurements (waveforms, spectrograms, spectral slices, formant tracking, pitch tracking, filtering).
+- Praat
 
 ## File
 
-[`Speech_Signal_Analysis_Report.pdf`](./Speech_Signal_Analysis_Report.pdf) — full lab report with figures, tables, and answers to all guided questions.
+[`Speech_Signal_Analysis_Report.pdf`](./Speech_Signal_Analysis_Report.pdf): full lab report with figures, tables, and answers to all questions.
